@@ -1,1 +1,5 @@
-/minhas-series/
+/minhas-series/node_modules/
+/minhas-series/yarn.lock
+/minhas-series/package-lock.json
+/minhas-series/db.sqlite
+/minhas-series/build
